@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edittext">28dp</dimen>
+    <dimen name="edittextandtextviewb5">20dp</dimen>
+    <dimen name="splashlogo">150dp</dimen>
+    <dimen name="registerpasswordandgender">183dp</dimen>
+    <dimen name="saveandcancel">80dp</dimen>
+    <dimen name="fortitle">30dp</dimen>
+    <dimen name="forpad">0dp</dimen>
+    <dimen name="forpad2">115dp</dimen>
+    <dimen name="forloginlogo">147dp</dimen>
+    <dimen name="foricontext">550dp</dimen>
+    <dimen name="profilephoto">170dp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Main Options">
+            <menu>
+        <item
+            android:id="@+id/viewStaff"
+            android:icon="@drawable/eye"
+            android:title="View Admin Info" />
+        <item
+            android:id="@+id/addWorker"
+            android:icon="@drawable/adduser"
+            android:title="Add Admin" />
+        <item
+            android:id="@+id/removeWorker"
+            android:icon="@drawable/removeuser"
+            android:title="Remove Me" />
+        <item
+            android:id="@+id/howTo"
+            android:icon="@drawable/backgro"
+            android:title="Background Changer" />
+            </menu>
+        </item>
+
+    </group>
+
+    <item android:title="Leaving Options">
+        <menu>
+            <item
+                android:id="@+id/logoutApp"
+                android:icon="@drawable/logout"
+                android:title="Log Out" />
+            <item
+                android:id="@+id/exitApp"
+                android:icon="@drawable/exit"
+                android:title="Exit"/>
+        </menu>
+    </item>
+
+</menu>

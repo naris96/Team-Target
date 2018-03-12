@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nestedback"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="assignment1.narispillai.com.assignment1.ToolsActivity"
+    tools:showIn="@layout/activity_tools">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/backgroundchangertitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:text="Background Selection"
+                android:textColor="@color/black_overlay"
+                android:textSize="@dimen/edittextandtextviewb5" />
+
+            <ImageView
+                android:id="@+id/bg1imageview"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/bg2display" />
+
+            <ImageView
+                android:id="@+id/bg2imageview"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/bg1display" />
+
+            <ImageView
+                android:id="@+id/bg3imageview"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/bg3display" />
+
+            <ImageView
+                android:id="@+id/bg4imageview"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/bg4display" />
+
+            <ImageView
+                android:id="@+id/cameraimageview"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@color/lightdarkblack"
+                android:cropToPadding="false"
+                app:srcCompat="@drawable/camera" />
+
+            <ImageView
+                android:id="@+id/galleryimageview"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="?attr/colorControlNormal"
+                app:srcCompat="@drawable/gallery" />
+
+            <TextView
+                android:id="@+id/hintTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="right"
+                android:text="*Click on either of the background to apply."
+                android:textColor="@color/black_overlay" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</android.support.v4.widget.NestedScrollView>

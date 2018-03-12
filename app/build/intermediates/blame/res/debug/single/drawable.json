@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adduser.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cake.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\cake.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginicon.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\loginicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg1.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\5496105fc7aaafa27b2110744d174750e09d0839\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\question.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbacksearch.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\roundedbacksearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loadingicon.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\loadingicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg4.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg4.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\5496105fc7aaafa27b2110744d174750e09d0839\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\teamwork.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\teamwork.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\telephoneadmin.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\telephoneadmin.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eye.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emaillogo.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\emaillogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgro.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\backgro.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg4display.jpg",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg4display.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titlebackground.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\titlebackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3display.jpg",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg3display.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg1display.jpg",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg1display.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2display.jpg",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg2display.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\5496105fc7aaafa27b2110744d174750e09d0839\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editicon.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\editicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\removeuser.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\removeuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reload.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\userbig.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\userbig.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adminremove.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\adminremove.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\current.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\current.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myposition.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\myposition.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calllogo.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\calllogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maptype.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\maptype.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconbackground.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\iconbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messagelogo.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\messagelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\5496105fc7aaafa27b2110744d174750e09d0839\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rubbish.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\rubbish.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messageadmin.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\messageadmin.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exitpopup.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\exitpopup.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\67b457c5943a96dc8641edf69ed481d51a12d2d6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adminicon.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\adminicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\5496105fc7aaafa27b2110744d174750e09d0839\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\drawable\\user.png"
+    }
+]

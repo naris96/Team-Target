@@ -1,0 +1,275 @@
+[
+    {
+        "outputFile": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 39,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 41,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 43,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 43,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 44,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 44,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 36,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 36,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 39,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 39,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 39,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 39,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 44,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 44,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 57,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 57,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 45,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 45,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 42,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 42,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endLine": 19,
+                    "endColumn": 13,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\Naris Pillaii\\.android\\build-cache\\17e21452b59e308df8a2490aad95aa1447784c09\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

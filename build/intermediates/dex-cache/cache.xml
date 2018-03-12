@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naris Pillaii\Documents\AndroidProject\Assignment1\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Naris Pillaii\Documents\AndroidProject\Assignment1\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_491ba2ac39e35c7d68eda28d563bde62061a628a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naris Pillaii\Documents\AndroidProject\Assignment1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Naris Pillaii\Documents\AndroidProject\Assignment1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8f796b72dd5dfe75d59f771b5d2c010df67bc924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naris Pillaii\Documents\AndroidProject\Assignment1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afeeda6eb6290f1b4b1ebf4a2ed6ad26e5aa5a2a">
+        <dex dex="C:\Users\Naris Pillaii\Documents\AndroidProject\Assignment1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d50f7ada7feef2eda7e60d7349a89795babb622\classes.dex" />
+    </item>
+
+</items>

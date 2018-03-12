@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_admin_list_scrollview.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\menu_admin_list_scrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_admin_list.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\menu_admin_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_navigation.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\user_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tools.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\menu_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_user_navigation_drawer.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\activity_user_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit.xml",
+        "source": "C:\\Users\\Naris Pillaii\\Documents\\AndroidProject\\Assignment1\\app\\src\\main\\res\\menu\\menu_edit.xml"
+    }
+]

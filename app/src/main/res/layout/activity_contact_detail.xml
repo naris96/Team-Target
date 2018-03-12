@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_contact_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="assignment1.narispillai.com.assignment1.ContactDetailActivity">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/contactimageview"
+            android:layout_width="match_parent"
+            android:layout_height="152dp"
+            android:background="@drawable/iconbackground"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp" />
+
+        <ScrollView
+            android:id="@+id/scrollviewacontactdetail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/contactnametextview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/edittextandtextviewb5" />
+
+                <TextView
+                    android:id="@+id/contactname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/edittext" />
+
+                <TextView
+                    android:id="@+id/contactpntextview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/edittextandtextviewb5" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:weightSum="4">
+
+                    <TextView
+                        android:id="@+id/contactphonenumber"
+                        android:layout_width="262dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.9"
+                        android:fontFamily="sans-serif-condensed"
+                        android:paddingBottom="15dp"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/edittext" />
+
+                    <ImageView
+                        android:id="@+id/callbutton"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:layout_weight="1" />
+
+                    <Space
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.1" />
+
+                    <ImageView
+                        android:id="@+id/messagebutton"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:layout_weight="1" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/contactemailtextview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/edittextandtextviewb5" />
+
+                <ListView
+                    android:id="@+id/contactemail"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

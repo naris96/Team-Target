@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\naris\\Downloads\\Compressed\\MAD Assignment1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\naris\\Downloads\\Compressed\\MAD Assignment1\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,5,6,4,14,13,11,12,10,15,8,9,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "90,149,249,290,206,659,613,534,572,493,704,388,447,344",
+                        "endColumns": "57,55,39,52,41,43,44,36,39,39,44,57,44,42",
+                        "endOffsets": "143,200,284,338,243,698,653,566,607,528,744,441,487,382"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,209,262,304,348,393,430,470,510,555,613,658",
+                        "endColumns": "57,55,39,52,41,43,44,36,39,39,44,57,44,42",
+                        "endOffsets": "108,164,204,257,299,343,388,425,465,505,550,608,653,696"
+                    }
+                }
+            ]
+        }
+    ]
+}

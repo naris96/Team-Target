@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Team Target</string>
+    <string name="action_settings">Settings</string>
+    <string name="position_show">Select your position</string>
+    <string-array name="position_list">
+        <item>Your position</item>
+        <item>Chief Executive Officer(CEO)</item>
+        <item>Chief Operating Officer(COO)</item>
+        <item>Marketing Manager</item>
+        <item>Chief Financial Officer(CFO)</item>
+        <item>Production Manager</item>
+        <item>Operations Manager</item>
+        <item>Quality Control Manager</item>
+        <item>Accountant</item>
+        <item>Office Manager</item>
+        <item>Receptionist</item>
+        <item>Supervisor</item>
+        <item>Marketing Manager</item>
+        <item>Purchasing Manager</item>
+        <item>Shipping Manager</item>
+        <item>Professional Staff</item>
+        <item>Ordinary Staff</item>
+    </string-array>
+
+    <string name="title_activity_splashscreen">Team Target</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_user_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_user_navigation">Team Target</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_register">Admin Register</string>
+    <string name="title_activity_admin_list">admin_list</string>
+
+    <string name="title_activity_admin_list_scrollview">Admin List</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_tools">Background Changer</string>
+    <string name="title_activity_edit">Edit Activity</string>
+
+
+</resources>

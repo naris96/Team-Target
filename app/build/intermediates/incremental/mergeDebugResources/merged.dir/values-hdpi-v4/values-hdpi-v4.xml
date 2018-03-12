@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="edittext">25dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="foricontext">470dp</dimen>
+    <dimen name="forloginlogo">130dp</dimen>
+    <dimen name="forpad">0dp</dimen>
+    <dimen name="forpad2">120dp</dimen>
+    <dimen name="fortitle">30dp</dimen>
+    <dimen name="profilephoto">170dp</dimen>
+    <dimen name="registerpasswordandgender">206dp</dimen>
+    <dimen name="saveandcancel">100dp</dimen>
+    <dimen name="splashlogo">950dp</dimen>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+          <item name="barLength">18.66dp</item>
+          <item name="gapBetweenBars">3.33dp</item>
+          <item name="drawableSize">24dp</item>
+     </style>
+</resources>
